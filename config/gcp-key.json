@@ -1,0 +1,10 @@
+{
+  "type": "service_account",
+  "project_id": "valebridgesync-prod",
+  "private_key_id": "8123626f8e0b8b456b8c63a0f4d32bd2b83d8d49",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgfIdI9LiTDC7f4Tmz\n1NSTx3yx49ag8CdkKuQxE2ACNXahRANCAASJSoAk8IPeoBO9NoHvdNb3TezI4Rdx\nG0fMIE4GWds3q4+5Ls4fbSO/vSfQkJNmXZZxGT7/zZcf2vQDFHvbJlUx\n-----END PRIVATE KEY-----\n",
+  "client_email": "etl-runner@valebridgesync-prod.iam.gserviceaccount.com",
+  "client_id": "737067097109746389376",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token"
+}
